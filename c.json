@@ -5,7 +5,7 @@
             "key": "drpy_js_豆瓣",
             "name": "主页-热播",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy.js"
         },
          {
@@ -39,14 +39,14 @@
             "key": "drpy_js_厂长资源",
             "name": "2KHD-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "http://f782c6d2.hk-vh-c.x-c.top/js/厂长.js"
         },
         {
             "key": "drpy_js_荐片",
             "name": "2KHD-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         {
@@ -60,7 +60,7 @@
             "key": "drpy_js_低端",
             "name": "2KHD-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ddys.js"
         },
         {
@@ -143,245 +143,245 @@
             "key": "drpy_js_360影视",
             "name": "官源-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
             "name": "官源-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "官源-C",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
             "name": "官源-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
         },
         {
             "key": "drpy_js_百忙无果",
             "name": "官源-E",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
         {
             "key": "drpy_js_菜狗",
             "name": "官源-F",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
         },
         {
             "key": "drpy_js_农民",
             "name": "影视-T",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/农民影视.js"
         },
         {
             "key": "drpy_js_免费看",
             "name": "影视-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
         },
         {
             "key": "drpy_js_追剧迷",
             "name": "影视-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "影视-C",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
         },
         {
             "key": "drpy_js_Voflix",
             "name": "影视-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
         },
         {
             "key": "drpy_js_米爱影视",
             "name": "影视-E",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
         },
         {
             "key": "drpy_js_电影先生",
             "name": "影视-F",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"
         },
         {
             "key": "drpy_js_秋霞影院",
             "name": "影视-G",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
         },
         {
             "key": "drpy_js_B站影视",
             "name": "影视-H",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/B站影视.js"
         },
         {
             "key": "drpy_js_哔哩影视",
             "name": "影视-I",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
         },
         {
             "key": "drpy_js_139影视",
             "name": "影视-J",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"
         },
         {
             "key": "drpy_js_69美剧",
             "name": "影视-K",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
         },
         {
             "key": "drpy_js_9U电影",
             "name": "影视-L",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/9U电影.js"
         },
         {
             "key": "drpy_js_大米星球",
             "name": "影视-M",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大米星球.js"
         },
         {
             "key": "drpy_js_大师兄影视",
             "name": "影视-N",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
         },
         {
             "key": "drpy_js_金曼影视",
             "name": "影视-O",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
         },
         {
             "key": "drpy_js_看了么",
             "name": "影视-P",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
         },
         {
             "key": "drpy_js_起飞影院",
             "name": "影视-Q",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
         },
         {
             "key": "drpy_js_四个圈儿",
             "name": "影视-R",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
         },
         {
             "key": "drpy_js_我爱跟剧",
             "name": "影视-S",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我爱跟剧.js"
         },
         {
             "key": "drpy_js_爱弹幕",
             "name": "动漫-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱弹幕.js"
         },
         {
             "key": "drpy_js_兔小贝",
             "name": "动漫-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
         },
         {
             "key": "drpy_js_NT动漫",
             "name": "动漫-C",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NT动漫.js"
         },
         {
             "key": "drpy_js_动漫岛",
             "name": "动漫-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/动漫岛.js"
         },
         {
             "key": "drpy_js_奇米动漫",
             "name": "动漫-E",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇米动漫.js"
         },
         {
             "key": "drpy_js_哔哩直播",
             "name": "直播-哔哩",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
         },
         {
             "key": "drpy_js_斗鱼直播",
             "name": "直播-斗鱼",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
         },
         {
             "key": "drpy_js_虎牙直播",
             "name": "直播-虎牙",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
         },
         {
             "key": "drpy_js_JustLive",
             "name": "直播-JustLive",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
         },
         {
@@ -395,21 +395,21 @@
             "key": "drpy_js_88看球",
             "name": "体育-88看球",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
         },
         {
             "key": "drpy_js_310直播",
             "name": "体育-310直播",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
         },
         {
             "key": "drpy_js_JangoIndex",
             "name": "音频-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JangoIndex.js",
             "playerType": "2"
         },
@@ -417,7 +417,7 @@
             "key": "drpy_js_DJ音乐",
             "name": "音频-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/DJ音乐.js",
             "playerType": "2"
         },
@@ -425,7 +425,7 @@
             "key": "drpy_js_啦啦DJ",
             "name": "音频-C",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js",
             "playerType": "2"
         },
@@ -433,7 +433,7 @@
             "key": "drpy_js_清风DJ",
             "name": "音频-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/清风DJ.js",
             "playerType": "2"
         },
@@ -441,14 +441,14 @@
             "key": "drpy_js_种子音乐",
             "name": "音频-E",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/种子音乐.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "广播-F",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
             "playerType": "2"
         },
@@ -456,7 +456,7 @@
             "key": "drpy_js_相声随身听",
             "name": "相声-G",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js",
             "playerType": "2"
         },
@@ -464,7 +464,7 @@
             "key": "drpy_js_i275听书",
             "name": "听书-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/i275听书.js",
             "playerType": "2"
         },
@@ -472,7 +472,7 @@
             "key": "drpy_js_喜马拉雅",
             "name": "听书-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js",
             "playerType": "2"
         },
@@ -480,7 +480,7 @@
             "key": "drpy_js_六月听书",
             "name": "听书-C",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
             "playerType": "2"
         },
@@ -488,7 +488,7 @@
             "key": "drpy_js_博看听书",
             "name": "听书-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js",
             "playerType": "2"
         },
@@ -496,7 +496,7 @@
             "key": "drpy_js_海洋听书",
             "name": "听书-E",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js",
             "playerType": "2"
         },
@@ -504,7 +504,7 @@
             "key": "drpy_js_听书网",
             "name": "听书-F",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js",
             "playerType": "2"
         },
@@ -512,7 +512,7 @@
             "key": "drpy_js_有声小说",
             "name": "听书-G",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js",
             "playerType": "2"
         },
@@ -520,56 +520,56 @@
             "key": "drpy_js_短视频",
             "name": "聚合-短视频",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"
         },
         {
             "key": "drpy_js_酷6网",
             "name": "聚合-酷6网",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷6网.js"
         },
         {
             "key": "drpy_js_A8音乐",
             "name": "MV-A",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
         },
         {
             "key": "drpy_js_MV263",
             "name": "MV-B",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/MV263.js"
         },
         {
             "key": "drpy_js_苹果DJ",
             "name": "MV-C",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js"
         },
         {
             "key": "drpy_js_酷狗MV",
             "name": "MV-D",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"
         },
         {
             "key": "drpy_js_酷奇MV",
             "name": "MV-E",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"
         },
         {
             "key": "drpy_js_音悦网",
             "name": "MV-F",
             "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"
         },
         {
